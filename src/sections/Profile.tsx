@@ -86,7 +86,7 @@ export const ProfileSection = () => {
             <ArrowDown className="size-4"/>
           </button>
           <a 
-            href="https://linktr.ee/ha5142" 
+            href="https://www.github.com/ha5142/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl transition-transform duration-300 ease-in-out transform hover:scale-105"

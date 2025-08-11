@@ -1,6 +1,8 @@
 import BetaMLSA from "@/assets/images/LevelBeta.png";
 import DesignHub from "@/assets/images/designhub.png";
 import amazonIcon from "@/assets/images/amazon.png";
+import adobeIcon from "@/assets/images/adobe.png";
+import hackathonIcon from "@assets/images/computer.png";
 import SIH from "@/assets/images/SIH.png";
 import Hacktober from "@/assets/images/hacktober.png";
 import Bertelsmann from "@/assets/images/Bertelsmann.png";
@@ -11,22 +13,22 @@ import { Fragment } from "react";
 
 export const Achievements = [
   {
-    title: "Designathon:-DesignHub,IIIT-D",
-    description: "Became 2nd Runner-up in Designathon. Designed a Mobile App for farmers to help them in crop management named 'Fasal'.",
-    year: "2024",
-    icon: DesignHub,
+    title: "Adobe India Hackathon",
+    description: "Become a participant in a national level hackathon organized by Adobe",
+    year: "2025",
+    icon: adobeIcon,
   },
   {
     title: "Amazon HackOn Season 5",
-    description: "Became a  Member of MLSA(Microsoft Learn Student Ambassador) Program. Organized various events and workshops on AI, ML, and Cloud.",
+    description: "Successfully qualified for and competed up to Round 2 in a nationwide hackathon organized by Amazon.",
     year: "2025",
     icon: amazonIcon,
   },
   {
-    title: "Smart India Hackathon Finalist",
-    description: "Became a finalist in Smart India Hackathon 2024, for developing a solution for the problem statement given by the Ministry of Ayush.",
+    title: "CodeNex Hackathon",
+    description: "Become a Finalist and gain lots of experience in development",
     year: "2024",
-    icon: SIH,
+    icon: hackathonIcon,
   },
   
 ];
