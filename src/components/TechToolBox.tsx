@@ -13,11 +13,12 @@ import FlaskIcon from "@/assets/icons/flask.svg";
 import SqlIcon from "@/assets/icons/sqlite3.svg";
 import MongoDBIcon from "@/assets/icons/mongodb.svg";
 import NumpyIcon from "@/assets/icons/numpy.svg";
-import MatplotlibIcon from "@/assets/icons/matplotlib.svg";
 import PandasIcon from "@/assets/icons/pandas.svg";
 import ScikitIcon from "@/assets/icons/scikit-learn.svg";
 import FirebaseIcon from "@/assets/icons/firebase.svg";
 import ExpressIcon from "@/assets/icons/express-js.svg";
+import NodeJsIcon from "@/assets/icons/nodejs.svg";
+import { title } from 'process';
 
 
 const toolboxItems1 = [
@@ -32,11 +33,11 @@ const toolboxItems1 = [
   { title: "Git", iconType: GitIcon },
   {title: "Express",iconType: ExpressIcon},
   { title: "MongoDB", iconType: MongoDBIcon },
+  {title : "NodeJs", iconType: NodeJsIcon},
 ];
 
 const toolboxItems2 = [
   { title: "Numpy", iconType: NumpyIcon },
-  { title: "Matplotlib", iconType: MatplotlibIcon },
   { title: "Pandas", iconType: PandasIcon },
   { title: "Scikit-learn", iconType: ScikitIcon },
   { title: "Sqlite3", iconType: SqlIcon },

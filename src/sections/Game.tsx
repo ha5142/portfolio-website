@@ -80,16 +80,16 @@ export const GameSection = () => {
                 <h3 className="text-xl font-bold text-white mb-4">Let's Connect!</h3>
                 <div className="grid grid-cols-2 gap-4 w-full">
                   <div className="p-2 rounded-lg bg-white/10 backdrop-blur-md">
-                    <div className="text-2xl font-bold text-white">5+</div>
+                    <div className="text-2xl font-bold text-white">4+</div>
                     <div className="text-xs text-white/70">Projects</div>
                   </div>
                   <div className="p-2 rounded-lg bg-white/10 backdrop-blur-md">
-                    <div className="text-2xl font-bold text-white">3+</div>
+                    <div className="text-2xl font-bold text-white">2+</div>
                     <div className="text-xs text-white/70">Years Coding</div>
                   </div>
                 </div>
                 <a
-                  href="mailto:abhinavkumarsingh2023@gmail.com"
+                  href="mailto:harshpunyani24@gmail.com"
                   className="mt-4 inline-flex items-center px-4 py-2 rounded-full bg-white text-gray-900 text-sm font-medium hover:bg-gray-100 transition-colors"
                 >
                   <Mail className="mr-2 h-4 w-4" />

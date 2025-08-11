@@ -1,5 +1,6 @@
 import BetaMLSA from "@/assets/images/LevelBeta.png";
 import DesignHub from "@/assets/images/designhub.png";
+import amazonIcon from "@/assets/images/amazon.png";
 import SIH from "@/assets/images/SIH.png";
 import Hacktober from "@/assets/images/hacktober.png";
 import Bertelsmann from "@/assets/images/Bertelsmann.png";
@@ -16,10 +17,10 @@ export const Achievements = [
     icon: DesignHub,
   },
   {
-    title: "Beta Learn Student Ambassador",
-    description: "Became a Beta Member of MLSA(Microsoft Learn Student Ambassador) Program. Organized various events and workshops on AI, ML, and Cloud.",
-    year: "2023",
-    icon: BetaMLSA,
+    title: "Amazon HackOn Season 5",
+    description: "Became a  Member of MLSA(Microsoft Learn Student Ambassador) Program. Organized various events and workshops on AI, ML, and Cloud.",
+    year: "2025",
+    icon: amazonIcon,
   },
   {
     title: "Smart India Hackathon Finalist",

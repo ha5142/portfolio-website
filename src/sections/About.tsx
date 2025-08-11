@@ -28,7 +28,7 @@ export const AboutSection = () => {
         <SectionHeader
           title="About Me"
           eyebrow="Who am I?"
-          description="I am an ML Engineer with a passion for creating accurate and functional models."
+          description="I am Full Stack developer with a passion for creating projects and scalable models."
         />
         <div className="mt-20 flex flex-col gap-8">
           <div className="grid grid-cols-1 gap-8 md:grid-cols-5 lg:grid-cols-3">

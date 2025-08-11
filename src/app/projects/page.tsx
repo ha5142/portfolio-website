@@ -44,10 +44,7 @@ const allProjects = [
       { title: "Provide multi-level citations (document, paragraph, sentence level)" },
       { title: "Built chatbot-style interface for document research queries" }
     ],
-    link: { url: "https://github.com/Abhinavexists/wasserstoff", target: "_blank" },
-    liveLink: "https://wasserstofftask-production.up.railway.app/",
-    image: Wasserstoff,
-    featured: true
+   
   },
   {
     company: "Python, Gemini AI, CrewAI, Multi-agent Systems, Financial APIs",
@@ -58,10 +55,7 @@ const allProjects = [
       { title: "Comprehensive stock market analysis and risk assessment" },
       { title: "Technical and fundamental analysis with automated reporting" }
     ],
-    link: { url: "https://github.com/Abhinavexists/FinWell", target: "_blank" },
-    liveLink: "https://github.com/Abhinavexists/FinWell",
-    image: FinWell,
-    featured: true
+   
   },
   
   // Additional Projects
@@ -74,10 +68,7 @@ const allProjects = [
       { title: "Implemented adjustable HSV thresholds for fine-tuning detection" },
       { title: "Highlighted detected arrows with bounding boxes and contours" }
     ],
-    link: { url: "https://github.com/Abhinavexists/ArrowDetection", target: "_blank" },
-    liveLink: "https://arrowdetection.onrender.com/",
-    image: ArrowSense,
-    featured: false
+   
   },
   {
     company: "Web Development, Financial Data, Real-time Analytics",
@@ -89,7 +80,7 @@ const allProjects = [
       { title: "Portfolio tracking and performance metrics" },
       { title: "Responsive design with modern UI/UX" }
     ],
-    link: { url: "https://github.com/Abhinavexists/StockBoard", target: "_blank" },
+    link: { url: "https://github.com/ha5142StockBoard", target: "_blank" },
     liveLink: "https://stock-board-jet.vercel.app/",
     image: StockBoard,
     featured: false
@@ -104,8 +95,8 @@ const allProjects = [
       { title: "Comprehensive evaluation and visualization tools" },
       { title: "Modular design for extensible ML workflows" }
     ],
-    link: { url: "https://github.com/Abhinavexists/Koala", target: "_blank" },
-    liveLink: "https://github.com/Abhinavexists/Koala",
+    link: { url: "https://github.com/ha5142/Koala", target: "_blank" },
+    liveLink: "https://github.com/ha5142/Koala",
     image: Koala,
     featured: false
   },
@@ -119,8 +110,8 @@ const allProjects = [
       { title: "Web interface with drag-and-drop functionality" },
       { title: "Color space processing in RGB and YCbCr formats" }
     ],
-    link: { url: "https://github.com/Abhinavexists/Wavelet-Transforms", target: "_blank" },
-    liveLink: "https://github.com/Abhinavexists/Wavelet-Transforms",
+    link: { url: "https://github.com/ha5142/Wavelet-Transforms", target: "_blank" },
+    liveLink: "https://github.com/ha5142/Wavelet-Transforms",
     image: WaveletTransforms,
     featured: false
   },
@@ -133,8 +124,8 @@ const allProjects = [
       { title: "Generated concise, informative summaries for research papers" },
       { title: "Extracted key sections like abstract, introduction, methodology, results, and conclusion" }
     ],
-    link: { url: "https://github.com/Abhinavexists/brieflet", target: "_blank" },
-    liveLink: "https://github.com/Abhinavexists/brieflet",
+    link: { url: "https://github.com/ha5142/brieflet", target: "_blank" },
+    liveLink: "https://github.com/ha5142/brieflet",
     image: Brieflet,
     featured: false
   },
@@ -148,8 +139,8 @@ const allProjects = [
       { title: "Natural language interface powered by Google's Gemini AI" },
       { title: "Command-line tool for US weather data access" }
     ],
-    link: { url: "https://github.com/Abhinavexists/MCP_Server", target: "_blank" },
-    liveLink: "https://github.com/Abhinavexists/MCP_Server",
+    link: { url: "https://github.com/ha5142/MCP_Server", target: "_blank" },
+    liveLink: "https://github.com/ha5142/MCP_Server",
     image: NeuNet,
     featured: false
   }

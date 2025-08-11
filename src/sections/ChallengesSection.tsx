@@ -6,8 +6,8 @@ const CodingChallengesSection = () => {
   return (
     <SectionContainer
       id="coding-challenges"
-      title="AI & ML Challenges"
-      subtitle="Test your machine learning and AI skills with these interactive challenges"
+      title="coding-challenges"
+      subtitle="Test your Problem Solving skills with these interactive challenges"
     >
       <div className="h-full">
         <CodingChallenges />
