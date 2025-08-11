@@ -44,7 +44,10 @@ const allProjects = [
       { title: "Provide multi-level citations (document, paragraph, sentence level)" },
       { title: "Built chatbot-style interface for document research queries" }
     ],
-   
+    link: { url: "https://github.com/Abhinavexists/wasserstoff", target: "_blank" },
+    liveLink: "https://wasserstofftask-production.up.railway.app/",
+    image: Wasserstoff,
+    featured: true
   },
   {
     company: "Python, Gemini AI, CrewAI, Multi-agent Systems, Financial APIs",
@@ -55,7 +58,10 @@ const allProjects = [
       { title: "Comprehensive stock market analysis and risk assessment" },
       { title: "Technical and fundamental analysis with automated reporting" }
     ],
-   
+    link: { url: "https://github.com/Abhinavexists/FinWell", target: "_blank" },
+    liveLink: "https://github.com/Abhinavexists/FinWell",
+    image: FinWell,
+    featured: true
   },
   
   // Additional Projects
@@ -68,7 +74,10 @@ const allProjects = [
       { title: "Implemented adjustable HSV thresholds for fine-tuning detection" },
       { title: "Highlighted detected arrows with bounding boxes and contours" }
     ],
-   
+    link: { url: "https://github.com/ha5142/ArrowDetection", target: "_blank" },
+    liveLink: "https://arrowdetection.onrender.com/",
+    image: ArrowSense,
+    featured: false
   },
   {
     company: "Web Development, Financial Data, Real-time Analytics",
@@ -80,7 +89,7 @@ const allProjects = [
       { title: "Portfolio tracking and performance metrics" },
       { title: "Responsive design with modern UI/UX" }
     ],
-    link: { url: "https://github.com/ha5142StockBoard", target: "_blank" },
+    link: { url: "https://github.com/StockBoard", target: "_blank" },
     liveLink: "https://stock-board-jet.vercel.app/",
     image: StockBoard,
     featured: false
